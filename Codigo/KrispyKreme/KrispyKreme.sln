@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krispy.AccessData", "Krispy.AccessData\Krispy.AccessData.csproj", "{08B7B290-335E-481F-8197-96BD9EE113A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krispy.Models", "Krispy.Models\Krispy.Models.csproj", "{28285FF6-C9DC-4555-A5B5-01F21F6D731C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krispy.Api", "Krispy.Api\Krispy.Api.csproj", "{EB0116B8-6C05-42B0-A7CA-7515FA80F820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krispy.Utils", "Krispy.Utils\Krispy.Utils.csproj", "{F886E85E-9DCE-416D-B076-59ACB79565AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B7B290-335E-481F-8197-96BD9EE113A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B7B290-335E-481F-8197-96BD9EE113A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B7B290-335E-481F-8197-96BD9EE113A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B7B290-335E-481F-8197-96BD9EE113A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28285FF6-C9DC-4555-A5B5-01F21F6D731C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28285FF6-C9DC-4555-A5B5-01F21F6D731C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28285FF6-C9DC-4555-A5B5-01F21F6D731C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28285FF6-C9DC-4555-A5B5-01F21F6D731C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0116B8-6C05-42B0-A7CA-7515FA80F820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0116B8-6C05-42B0-A7CA-7515FA80F820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0116B8-6C05-42B0-A7CA-7515FA80F820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0116B8-6C05-42B0-A7CA-7515FA80F820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F886E85E-9DCE-416D-B076-59ACB79565AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F886E85E-9DCE-416D-B076-59ACB79565AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F886E85E-9DCE-416D-B076-59ACB79565AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F886E85E-9DCE-416D-B076-59ACB79565AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56EB547-CA8F-4D7C-AFA6-64AD2A76290E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+@Krispy.Api_HostAddress = http://localhost:5151
+
+GET {{Krispy.Api_HostAddress}}/Home/
+Accept: application/json
+
+###
+#
